@@ -1,0 +1,2 @@
+Description:
+The Temperature Converter is a console-based Java application designed to convert temperature values between Celsius and Fahrenheit. The program accepts user input, applies the appropriate mathematical formula for conversion, and displays the result clearly. It demonstrates the use of user input handling, conditional statements, arithmetic operations, and basic validation techniques in Java.

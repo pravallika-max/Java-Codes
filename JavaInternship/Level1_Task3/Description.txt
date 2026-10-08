@@ -1,0 +1,3 @@
+Description:
+
+The Student Grade Calculator is a Java console-based application developed as part of the Level 1 internship tasks. The program prompts the user to enter the number of grades and accepts individual grade inputs. It calculates the total and computes the average grade, displaying the result clearly. The program also includes basic input validation to prevent invalid entries such as zero or negative values. This task demonstrates the use of loops, user input handling, arithmetic operations, and conditional validation in Java.
